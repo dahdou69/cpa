@@ -1,9 +1,8 @@
 {
-"posts":    {
-"posts":    {
-      "id": 1,
-      "title": "Post 1",
-      "description": "this is description 1"
+"test":    {
+      "ADS": 1,
+      "banner_id": "ca-app-pub-3940256099942544/6300978111",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173712"
 
       "id": 2,
       "title": "Post 2",
